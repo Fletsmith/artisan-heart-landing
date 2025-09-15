@@ -57,7 +57,7 @@ const ContactSection = () => {
                     <h4 className="font-semibold text-foreground">WhatsApp Orders</h4>
                     <p className="text-muted-foreground">Quick ordering via WhatsApp</p>
                     <Button variant="link" className="p-0 h-auto text-primary">
-                      +1 (555) 123-4567
+                      0242161301
                     </Button>
                   </div>
                 </div>
@@ -69,7 +69,7 @@ const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold text-foreground">Phone</h4>
                     <p className="text-muted-foreground">Call us during business hours</p>
-                    <p className="text-primary font-medium">+1 (555) 123-4567</p>
+                    <p className="text-primary font-medium">0242161301</p>
                   </div>
                 </div>
 
@@ -80,7 +80,7 @@ const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold text-foreground">Email</h4>
                     <p className="text-muted-foreground">For detailed inquiries</p>
-                    <p className="text-primary font-medium">hello@localproducts.com</p>
+                    <p className="text-primary font-medium">frankdofour@gmail.com</p>
                   </div>
                 </div>
 
@@ -91,7 +91,7 @@ const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold text-foreground">Location</h4>
                     <p className="text-muted-foreground">Visit our local hub</p>
-                    <p className="text-primary font-medium">123 Market Street, Local City</p>
+                    <p className="text-primary font-medium">Accra, Ghana</p>
                   </div>
                 </div>
               </div>

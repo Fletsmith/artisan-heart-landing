@@ -8,18 +8,18 @@ const OurStorySection = () => {
               Our Story
             </h2>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              Born from a passion for authentic craftsmanship and community connection, our marketplace 
-              celebrates the skilled hands and hearts of local artisans and farmers who have dedicated 
-              their lives to creating exceptional products.
+              Rooted in the rich traditions of Ghana, our marketplace celebrates the skilled hands and hearts 
+              of Ghanaian artisans and farmers who have dedicated their lives to creating exceptional products 
+              that reflect our beautiful culture and heritage.
             </p>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              Each item in our collection tells a story of tradition, sustainability, and the unwavering 
-              commitment to quality that defines our local community. From sunrise harvests to midnight 
-              pottery wheels, we're here to bridge the gap between passionate creators and discerning customers.
+              Each item in our collection tells a story of Ghanaian tradition, sustainability, and the unwavering 
+              commitment to quality that defines our people. From dawn cocoa harvests to intricate Kente weaving, 
+              we're here to share the beauty of Ghana with the world.
             </p>
             <p className="text-lg text-primary font-medium">
-              Supporting local means preserving traditions, protecting our environment, and building 
-              stronger communities—one purchase at a time.
+              Supporting Ghanaian artisans means preserving our ancient traditions, protecting our land, 
+              and building stronger communities across Ghana—one purchase at a time.
             </p>
           </div>
           

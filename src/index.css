@@ -8,31 +8,31 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    /* Natural, warm color palette for local artisan marketplace */
-    --background: 35 20% 98%;
-    --foreground: 25 15% 15%;
+    /* Ghanaian-inspired color palette - Ghana flag colors: Red, Gold, Green */
+    --background: 45 15% 97%;
+    --foreground: 15 10% 15%;
 
     --card: 0 0% 100%;
-    --card-foreground: 25 15% 15%;
+    --card-foreground: 15 10% 15%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 25 15% 15%;
+    --popover-foreground: 15 10% 15%;
 
-    /* Sage green primary */
-    --primary: 75 25% 35%;
+    /* Ghana green primary */
+    --primary: 140 45% 35%;
     --primary-foreground: 0 0% 98%;
     
-    /* Warm terracotta secondary */
-    --secondary: 15 35% 75%;
-    --secondary-foreground: 25 15% 15%;
+    /* Ghana gold secondary */
+    --secondary: 45 85% 65%;
+    --secondary-foreground: 15 10% 15%;
 
     /* Soft warm muted */
-    --muted: 35 15% 92%;
+    --muted: 45 20% 92%;
     --muted-foreground: 25 10% 45%;
 
-    /* Golden amber accent */
-    --accent: 35 65% 65%;
-    --accent-foreground: 25 15% 15%;
+    /* Ghana red accent */
+    --accent: 0 75% 55%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
@@ -41,14 +41,14 @@ All colors MUST be HSL.
     --input: 35 15% 90%;
     --ring: 75 25% 35%;
 
-    /* Custom design tokens */
-    --hero-gradient: linear-gradient(135deg, hsl(75 25% 35%), hsl(35 45% 55%));
-    --warm-gradient: linear-gradient(180deg, hsl(35 20% 98%), hsl(35 15% 95%));
-    --accent-gradient: linear-gradient(135deg, hsl(35 65% 65%), hsl(15 35% 75%));
+    /* Custom design tokens - Ghana-inspired */
+    --hero-gradient: linear-gradient(135deg, hsl(140 45% 35%), hsl(45 85% 65%));
+    --warm-gradient: linear-gradient(180deg, hsl(45 15% 97%), hsl(45 20% 94%));
+    --accent-gradient: linear-gradient(135deg, hsl(45 85% 65%), hsl(0 75% 55%));
     
-    /* Shadows with warm tones */
-    --shadow-warm: 0 4px 20px -4px hsl(75 25% 35% / 0.1);
-    --shadow-elegant: 0 10px 40px -10px hsl(75 25% 35% / 0.15);
+    /* Shadows with Ghana colors */
+    --shadow-warm: 0 4px 20px -4px hsl(140 45% 35% / 0.1);
+    --shadow-elegant: 0 10px 40px -10px hsl(140 45% 35% / 0.15);
     
     /* Smooth transitions */
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -74,27 +74,27 @@ All colors MUST be HSL.
   }
 
   .dark {
-    /* Dark mode with warm, cozy tones */
-    --background: 25 15% 8%;
-    --foreground: 35 20% 95%;
+    /* Dark mode with Ghana-inspired tones */
+    --background: 15 10% 8%;
+    --foreground: 45 15% 95%;
 
-    --card: 25 15% 12%;
-    --card-foreground: 35 20% 95%;
+    --card: 15 10% 12%;
+    --card-foreground: 45 15% 95%;
 
-    --popover: 25 15% 12%;
-    --popover-foreground: 35 20% 95%;
+    --popover: 15 10% 12%;
+    --popover-foreground: 45 15% 95%;
 
-    --primary: 75 20% 45%;
-    --primary-foreground: 25 15% 8%;
+    --primary: 140 40% 45%;
+    --primary-foreground: 15 10% 8%;
 
-    --secondary: 25 10% 18%;
-    --secondary-foreground: 35 20% 95%;
+    --secondary: 45 70% 50%;
+    --secondary-foreground: 15 10% 8%;
 
-    --muted: 25 10% 15%;
-    --muted-foreground: 35 10% 60%;
+    --muted: 15 10% 15%;
+    --muted-foreground: 45 10% 60%;
 
-    --accent: 35 45% 45%;
-    --accent-foreground: 35 20% 95%;
+    --accent: 0 65% 50%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
@@ -103,10 +103,10 @@ All colors MUST be HSL.
     --input: 25 10% 18%;
     --ring: 75 20% 45%;
     
-    /* Dark mode gradients */
-    --hero-gradient: linear-gradient(135deg, hsl(75 20% 25%), hsl(35 35% 35%));
-    --warm-gradient: linear-gradient(180deg, hsl(25 15% 8%), hsl(25 10% 12%));
-    --accent-gradient: linear-gradient(135deg, hsl(35 45% 45%), hsl(15 25% 35%));
+    /* Dark mode gradients - Ghana colors */
+    --hero-gradient: linear-gradient(135deg, hsl(140 40% 25%), hsl(45 70% 40%));
+    --warm-gradient: linear-gradient(180deg, hsl(15 10% 8%), hsl(15 10% 12%));
+    --accent-gradient: linear-gradient(135deg, hsl(45 70% 45%), hsl(0 65% 35%));
     
     --shadow-warm: 0 4px 20px -4px hsl(0 0% 0% / 0.3);
     --shadow-elegant: 0 10px 40px -10px hsl(0 0% 0% / 0.4);
