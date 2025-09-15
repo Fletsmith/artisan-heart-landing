@@ -15,11 +15,11 @@ const GallerySection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Our Community in Pictures
+            Gallery
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            A glimpse into the vibrant world of local artisans, fresh produce, 
-            and the beautiful products that make our community special.
+            Step into our world through photos and videos that capture the colors of Kumasi markets, 
+            the moves of cultural dance groups, and young creatives at work in studios, workshops, and classrooms.
           </p>
         </div>
 

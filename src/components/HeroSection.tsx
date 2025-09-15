@@ -21,19 +21,19 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-          Authentic Ghanaian Products,
           <span className="block bg-accent-gradient bg-clip-text text-transparent">
-            Made with Pride
+            Talent Lives Here
           </span>
+          in Kumasi
         </h1>
-        <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl mx-auto">
-          Discover handcrafted goods and fresh local produce from passionate Ghanaian artisans and farmers
+        <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-3xl mx-auto">
+          Kumasi is alive with creativity. From the weaving of kente cloth to the rhythms of music and the energy of young innovators, our city is full of stories waiting to be told. Kumasi Talent Hub is here to showcase those stories and connect the people behind them to the world.
         </p>
         <Button 
           size="lg" 
           className="text-lg px-8 py-6 bg-white/10 text-white border border-white/20 hover:bg-white/20 backdrop-blur-sm transition-smooth"
         >
-          Explore Products
+          👉 See Our Talents
         </Button>
       </div>
     </section>

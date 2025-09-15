@@ -1,8 +1,8 @@
 import HeroSection from "@/components/HeroSection";
 import OurStorySection from "@/components/OurStorySection";
-import FeaturedProducts from "@/components/FeaturedProducts";
-import WhyChooseUs from "@/components/WhyChooseUs";
-import TestimonialsSection from "@/components/TestimonialsSection";
+import FeaturedTalents from "@/components/FeaturedProducts";
+import WhyKumasiSection from "@/components/WhyKumasiSection";
+import StoriesOfImpactSection from "@/components/TestimonialsSection";
 import GallerySection from "@/components/GallerySection";
 import CallToActionSection from "@/components/CallToActionSection";
 import ContactSection from "@/components/ContactSection";
@@ -13,9 +13,9 @@ const Index = () => {
     <div className="min-h-screen">
       <HeroSection />
       <OurStorySection />
-      <FeaturedProducts />
-      <WhyChooseUs />
-      <TestimonialsSection />
+      <FeaturedTalents />
+      <WhyKumasiSection />
+      <StoriesOfImpactSection />
       <GallerySection />
       <CallToActionSection />
       <ContactSection />

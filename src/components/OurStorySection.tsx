@@ -5,21 +5,16 @@ const OurStorySection = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Our Story
+              About Us
             </h2>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              Rooted in the rich traditions of Ghana, our marketplace celebrates the skilled hands and hearts 
-              of Ghanaian artisans and farmers who have dedicated their lives to creating exceptional products 
-              that reflect our beautiful culture and heritage.
+              We believe that every talent deserves to be seen. Kumasi Talent Hub was created to shine a spotlight on the skills and creativity of people in Kumasi and beyond. Some of these talents come from long traditions—like adinkra printing and wood carving—while others are modern and fresh, like digital art, fashion design, and app development.
             </p>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              Each item in our collection tells a story of Ghanaian tradition, sustainability, and the unwavering 
-              commitment to quality that defines our people. From dawn cocoa harvests to intricate Kente weaving, 
-              we're here to share the beauty of Ghana with the world.
+              At our core, we want to give talented people a place to be noticed, connect them to opportunities that can change their lives, and keep the spirit of Kumasi's culture alive while encouraging new ideas.
             </p>
             <p className="text-lg text-primary font-medium">
-              Supporting Ghanaian artisans means preserving our ancient traditions, protecting our land, 
-              and building stronger communities across Ghana—one purchase at a time.
+              Every person in Kumasi has a story worth telling, and we're here to help them share it with the world.
             </p>
           </div>
           
